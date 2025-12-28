@@ -1,0 +1,11 @@
+{
+    // aiimagetoimage-2api-cfwork Cloudflare Worker 配置文件
+    // 版本: 4.4.0 (Chimera Silent - Universal Compatibility)
+    "name": "aiimagetoimage-2api-cfwork",
+    "main": "worker.js",
+    "compatibility_date": "2025-12-27",
+    // 可选: 设置自定义 API 密钥 (取消注释并修改)
+    // "vars": {
+    //   "API_MASTER_KEY": "your-custom-key"
+    // }
+}
